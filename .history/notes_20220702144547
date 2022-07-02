@@ -1,0 +1,41 @@
+fluid layout -> {
+
+use % change default
+
+vh
+
+}
+
+
+
+responsive units -> {
+    use rem instead of pixel
+}
+
+
+flexible image  -> {
+    alway use % or max-width
+}
+
+
+
+media-query ->{
+    view port width
+
+    1 => float
+    2 => flexbox -> 1 dimensional 
+    3 => grid  - > 2 dimensional
+}
+
+responsive - >{
+
+    max-width:600px
+}
+
+
+
+
+
+
+
+

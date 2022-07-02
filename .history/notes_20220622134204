@@ -1,0 +1,18 @@
+fluid layout -> {
+
+use % change default
+
+vh
+
+}
+
+
+
+responsive units -> {
+    use rem instead of pixel
+}
+
+
+flexible image  -> {
+    alway use % or max-width
+}
